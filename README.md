@@ -7,6 +7,7 @@ It uses 0mb of your lens storage, so you don't need to use animated textures.
 <br/><br/>
 
 ![Lens Studio Grain Generator](https://maxvanleeuwen.com/wp-content/uploads/LensStudio_GrainGenerator_01.png)
+![Lens Studio Grain Generator](https://maxvanleeuwen.com/wp-content/uploads/GrainGenerator.gif)
 
 <br/><br/>
 
