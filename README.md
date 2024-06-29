@@ -1,9 +1,8 @@
 # SnapLensStudio-GrainGenerator
-A film grain material (post effect) for Snapchat's Lens Studio.
+A film grain material (post effect) for Lens Studio.
 <br/>
-It uses 0mb of your lens storage, so you don't need to use animated textures.
-(It only uses about 4mb RAM.)
-Also known as 'Cinematic Grain'.
+It uses 0mb of your lens storage!
+<br>Also known as 'Cinematic Grain'.
 
 <br/><br/>
 
